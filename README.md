@@ -1,1 +1,1 @@
-This is an inspiration that came to my mind when I was counting minutes to do the accounts with my previous employer, to count properly **minutes worked**. U need to download all the files and extract the .zip archive, then select the option "Run Anyway" at Windows.
+This is an inspiration that came to my mind when I was counting minutes to do the accounts with my previous employer, to count properly **minutes worked**. U need to download all the files and extract the .zip archive, then select the option "Run Anyway" at Windows. Have fun! :)
